@@ -34,4 +34,4 @@ Run and explore the full Colab notebook [here](PDF_Q&A.ipynb).
 - Sentence-Transformers  
 
 ## Author
-[oebyakarah](https://github.com/oebyakarah)  
+[AKDGrant](https://github.com/AKDGrant)  
